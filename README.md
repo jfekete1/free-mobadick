@@ -1,8 +1,9 @@
 # Free-Mobadick
 
-## How it work?
+## How it works?
 
-Please see source code. It is not complex.
+This little perl script generates a professional license file for MobaXterm.
+Using an encryption algorithm and compression.
 
 ## How to use?
 
