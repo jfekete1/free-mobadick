@@ -27,5 +27,3 @@ PS C:\Users\jfekete1\Github\free-mobadick> .\free-mobadick.pl jfekete1 20.5
 ```
 
 Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
-
-Special thanks to DoubleSine, who wrote the python version !!
