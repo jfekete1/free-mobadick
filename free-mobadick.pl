@@ -7,7 +7,7 @@ use Archive::Zip;
 
 if(!@ARGV){
 	print "Usage:\n";
-	print '    free-mobadick.pl <UserName> <Version> <Count>'."\n\n";
+	print '    free-mobadick.pl <UserName> <Version>'."\n\n";
 	print '    <UserName>:      The Name licensed to'."\n";
 	print '    <Version>:       The Version of MobaXterm you are using'."\n";
 	print '                      Example:    20.5'."\n\n";
