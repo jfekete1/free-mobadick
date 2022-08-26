@@ -5,6 +5,10 @@
 This little perl script generates a professional license file for MobaXterm.
 Using an encryption algorithm and compression.
 
+## Requirements
+
+sudo cpan -f Archive::Zip
+
 ## How to use?
 
 ```
